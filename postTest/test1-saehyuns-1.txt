@@ -1,0 +1,3 @@
+The test is testing if the the program can drop, create, and perform queries on the table.
+For example, the test1-saehyuns-1.pre.sql contains a drop table command to drop the tables from the database. The test1-saehyuns-1.sql contains a create table statement that creates a table in the database. Then finalls the test1-saehyuns-1.post.1.sql contains a select * from the table statement. This checks what are in the db, creates, and drops the db.
+

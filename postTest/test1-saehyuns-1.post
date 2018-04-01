@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sqlite3 catalog/mycatdb < postTest/test1-saehyuns-1.post.1.sql
+sqlite3 node1/mydb1 < postTest/test1-saehyuns-1.post.1.sql
+sqlite3 node2/mydb2 < postTest/test1-saehyuns-1.post.1.sql
